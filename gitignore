@@ -9,24 +9,26 @@ This repository
 
     @TomBerton
 
-11
-0
 
-    1
 
-the-Coding-Boot-Camp-at-UT/UTAUS201801DATA2-Class-Repository-DATA
-Code
-Issues 0
-Pull requests 0
-Projects 0
-Wiki
-Insights
-UTAUS201801DATA2-Class-Repository-DATA/.gitignore
-2d89fac on Oct 2
-@jhillgithub jhillgithub Update .gitignore
-@NBDelpino1
-@jhillgithub
-111 lines (84 sloc) 1.23 KB
+*.tmp
+
+# Word temporary
+~$*.doc*
+
+# Excel temporary
+~$*.xls*
+
+# Excel Backup File
+*.xlk
+
+# PowerPoint temporary
+~$*.ppt*
+
+TimeTracker.xlsx
+LessonPlan.md
+Generators
+
 # nbgrader database file
 gradebook.db
 
@@ -137,6 +139,23 @@ ENV/
 
 # Node project dependencies and settings
 node_modules/
+
+
+    © 2017 GitHub, Inc.
+    Terms
+    Privacy
+    Security
+    Status
+    Help
+
+    Contact GitHub
+    API
+    Training
+    Shop
+    Blog
+    About
+
+
 
     © 2017 GitHub, Inc.
     Terms
